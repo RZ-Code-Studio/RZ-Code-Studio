@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RZ-Code-Studio
-- 👀 I’m interested in code hence my name
+- 👀 I’m interested in code
 - 🌱 I’m currently learning how to use fetch in JavaScript
 - 💞️ I’m looking to collaborate on code
 - 📫 Contact me at rz.codestudio@gmail.com
